@@ -1,3 +1,5 @@
+#https://pymysql.readthedocs.io/en/latest/index.html
+
 import pymysql.cursors
 
 # Connect to the database
